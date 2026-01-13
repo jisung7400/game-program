@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D599AFF2-AC87-448D-A88A-D690A4586FD3}|program.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D599AFF2-AC87-448D-A88A-D690A4586FD3}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10344F4A-C607-4FE3-B7C0-7A24CD239216}|..\\class 1th input system\\class 1th input system.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c",
+              "RelativeDocumentMoniker": "..\\class 1th input system\\source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c",
+              "RelativeToolTip": "..\\class 1th input system\\source.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-13T11:11:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\source.c",
+              "RelativeDocumentMoniker": "source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\program\\source.c",
+              "RelativeToolTip": "source.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-12T11:11:17.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
