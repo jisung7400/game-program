@@ -1,5 +1,4 @@
 ﻿  source.c
-C:\Users\bluea\OneDrive\바탕 화면\program\source.c(7,14): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\bluea\OneDrive\바탕 화면\program\source.c(39,2): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\bluea\OneDrive\바탕 화면\program\source.c(39,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  program.vcxproj -> C:\Users\bluea\OneDrive\바탕 화면\program\x64\Debug\program.exe
+C:\Users\bluea\OneDrive\바탕 화면\game-program\program\source.c(21,19): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\bluea\OneDrive\바탕 화면\game-program\program\source.c(10,10): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  program.vcxproj -> C:\Users\bluea\OneDrive\바탕 화면\game-program\program\x64\Debug\program.exe

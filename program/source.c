@@ -1,65 +1,77 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void shuffle(int array[], int size)
+void load(const char* fileName)
 {
-	for (int i = 0; i < size; i++)
-	{
-		int seed = rand() % size;
+    FILE* file = fopen(fileName, "r");
 
-		int temporary = array[seed];
+    int count = 0;
 
-		array[seed] = array[i];
+    int character = '\0';
 
-		array[i] = temporary;
+    while ((character = fgetc(file)) != EOF)
+    {
+        count++;
+    }
 
-		
-	}
+    rewind(file);
+
+    char* buffer = malloc(count + 1);
+
+    buffer[count] = NULL;
+
+    fread(buffer, sizeof(char), count, file);
+
+    // 첫 번째 매개변수 : 읽은 데이터를 저장할 메모리 버퍼의 포인터 변수
+    // 두 번째 매개변수 : 각 데이터 항목의 크기 
+    // 세 번째 매개변수 : 데이터를 읽어올 항목의 수
+    // 네 번째 매개변수 : 데이터를 읽어올 파일의 포인터 변수
+
+    printf("%s", buffer);
+
+    fclose(file);
+
+    free(buffer);
 }
-
 
 int main()
 {
-#pragma region 의사 난수
-	// 0 ~ 32767 사이의 난수 값을 반환하는 함수입니다.
+#pragma region 파일 입출력
 
-	// UTC 기준으로 1970년 1월 1일 0시 0분 0초부터 경과된
-	// 시간을 초(sec)로 반환하는 함수입니다.
+#pragma region 파일 쓰기
 
-	// srand : rand()가 사용할 초기값(seed)을 설정하는 함수
+    int* p = malloc(sizeof(int));
+
+    printf("%p\n", p);
+
+    free(p);
 
 
 
-	//srand(time(NULL));
-	//
-	//int random = rand() % 10 + 1;
-	//
-	//printf("random : %d\n", random);
+    // 첫 번째 매개 변수 (파일의 이름)
+    // 두 번째 매개 변수 (파일의 입출력 모드)
 
-#pragma region 셔플 함수
-	srand(time(NULL));
+    // FILE * file = fopen("data.txt","w");
+    // 
+    // fputs("Character Information\n", file);
+    // 
+    // fputs("Health : \n", file);
+    // fputs("Attack : \n", file);
+    // fputs("Defense : \n", file);
+    // 
+    // fclose(file);
 
-	int list[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+#pragma endregion
 
-	int size = sizeof(list) / sizeof(list[0]);
+#pragma region 파일 읽기
 
-	shuffle(list, size);
-
-	for (int i = 0; i < size; i++)
-	{
-		printf("list[%d]의 값 :%d\n", i, list[i]);
-	}
-	
+    load("Resources/batte.txt");
 
 #pragma endregion
 
 
-	
 #pragma endregion
 
 
-
-
-
-
-
+    return 0;
 }
