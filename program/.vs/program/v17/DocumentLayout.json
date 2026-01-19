@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{D599AFF2-AC87-448D-A88A-D690A4586FD3}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{42C824BA-6D46-4E4C-B37D-527CDBE3AAF0}|..\\class 4th (color system)\\class 4th (color system).vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 4th (color system)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A161E-DECA-40A0-8511-963B81FE7B56}|..\\class 3th\\class 3th.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 3th\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10344F4A-C607-4FE3-B7C0-7A24CD239216}|..\\class 1th input system\\class 1th input system.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 1th input system\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 4th (color system)\\source.c",
+              "RelativeDocumentMoniker": "..\\class 4th (color system)\\source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 4th (color system)\\source.c",
+              "RelativeToolTip": "..\\class 4th (color system)\\source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T12:17:01.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 3th\\source.c",
+              "RelativeDocumentMoniker": "..\\class 3th\\source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 3th\\source.c",
+              "RelativeToolTip": "..\\class 3th\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-19T11:07:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 1th input system\\source.c",
               "RelativeDocumentMoniker": "..\\class 1th input system\\source.c",
@@ -32,12 +64,11 @@
               "RelativeToolTip": "..\\class 1th input system\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-16T11:39:39.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:39:39.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c",
               "RelativeDocumentMoniker": "..\\..\\class 1th input system\\source.c",
@@ -54,7 +85,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T11:11:17.062Z",
               "EditorCaption": ""
