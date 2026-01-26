@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF7C093E-34EA-4D7A-85A4-2979C7BD3CBF}|..\\RPG game\\RPG game.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\RPG game\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D599AFF2-AC87-448D-A88A-D690A4586FD3}|program.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D599AFF2-AC87-448D-A88A-D690A4586FD3}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -14,9 +17,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{10344F4A-C607-4FE3-B7C0-7A24CD239216}|..\\class 1th input system\\class 1th input system.vcxproj|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 1th input system\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\RPG game\\source.c",
+              "RelativeDocumentMoniker": "..\\RPG game\\source.c",
+              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\RPG game\\source.c",
+              "RelativeToolTip": "..\\RPG game\\source.c",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T11:08:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 4th (color system)\\source.c",
               "RelativeDocumentMoniker": "..\\class 4th (color system)\\source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 4th (color system)\\source.c",
               "RelativeToolTip": "..\\class 4th (color system)\\source.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-19T12:17:01.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 3th\\source.c",
               "RelativeDocumentMoniker": "..\\class 3th\\source.c",
@@ -54,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\class 1th input system\\source.c",
               "RelativeDocumentMoniker": "..\\class 1th input system\\source.c",
@@ -66,24 +79,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c",
-              "RelativeDocumentMoniker": "..\\..\\class 1th input system\\source.c",
-              "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\class 1th input system\\source.c",
-              "RelativeToolTip": "..\\..\\class 1th input system\\source.c",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-13T11:11:35.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\program\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\bluea\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\game-program\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T11:11:17.062Z",
               "EditorCaption": ""
